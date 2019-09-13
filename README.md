@@ -2,4 +2,4 @@
 
 > IrisAdmin 辅助工具
 
-## WARNING:: not finished, so many bugs.
+## WARNING:: iris admin still has bugs.
